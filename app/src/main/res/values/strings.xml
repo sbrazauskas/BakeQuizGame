@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="main_image_description">Image of the baking kitchen</string>
+    <string name="play_button">Play!</string>
+    <string name="image_description">Image of the current baked good in the quiz</string>
+    <string name="guess_bake">Guess the Bake!</string>
+    <string name="game_sound">Game Sounds</string>
+    <string name="games_sound_choices_description">Turn game sound on/off</string>
+    <string name="settingsOnSfx">Sound On</string>
+    <string name="settingsOffSfx">Sound Off</string>
+    <string name="welcome">The Great British Baking Show Inspired Guessing Game</string>
+</resources>
